@@ -8,4 +8,6 @@ rosrun joy joy_node
 
 rosrun sea_drone controller.py
 
+スラスターのESCをjetsonnanoの32, 33につなげる
+
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/f87ae909-52b8-455f-8ad0-c99f84e11315">
